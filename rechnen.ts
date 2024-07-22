@@ -2,6 +2,8 @@ import { SortService, Direction } from "https://deno.land/x/sort/mod.ts"
 
 export class Rechnen {
 
+    public static LIGHTSPEED = 299792458     
+
     public static getSumOfDigits(input: number) {
         let counter = 0
         let result = 0
