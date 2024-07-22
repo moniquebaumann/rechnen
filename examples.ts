@@ -1,9 +1,3 @@
-# Rechnen
-🦕 module to celebrate magics of math
-
-## Usage Examples
-```ts 
-
 import { Rechnen } from "./mod.ts"
 
 const lightSpeed = 299792458
@@ -28,5 +22,3 @@ console.log(Rechnen.getProductOfArrayEntries([2, 3]))
 console.log(Rechnen.getPrimeFactors(10, false))
 console.log(Rechnen.getPrimeFactors(180, true))
 
-
-```
