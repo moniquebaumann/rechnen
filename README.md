@@ -34,3 +34,9 @@ console.log(Rechnen.getAmountOutMin(1, 10, 0, decimals, true) * (10 ** decimals)
 
 ## Sponsored By
 [Geo-Caching.org](https://Geo-Caching.org) 
+
+[![homepage][1]][2]
+
+[1]:  https://geo-caching.org/libertas-favicon/icon.ico
+[2]:  http://geo-caching.org 
+
